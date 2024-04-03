@@ -4,7 +4,7 @@ I'm Joshua Nafziger, a high school student from VA, USA, deeply engrossed in mat
 ## About Me
 
 - **📚 Curious Mind:** My journey through math and physics is fueled by a desire to understand the universe's intricate designs.
-- **💻 Developer at Heart:** Whether it's JavaScript or Python, my love for coding knows no bounds. I enjoy crafting solutions that make life easier and more interesting.
+- **💻 Developer at Heart:** Whether it's JavaScript, Arduino's, PI's or Python, my love for coding knows no bounds. I enjoy crafting solutions that make life easier and more interesting.
 - **🏎 Eco-friendly Racing:** I took part in an electric vehicle race in Abu Dhabi, bagging the 3rd place! My role? I engineered and programmed the entire data collection backbone for our vehicle.
 - **🏡 Home Automation Hobbyist:** My fascination with making homes smarter and more efficient has led me to dive deep into Home Assistant. Automating daily tasks and integrating various devices brings me joy and satisfaction.
 - **🌳 Outdoor Enthusiast & Entrepreneur:** Apart from my technical pursuits, I relish the time spent outdoors, doing yard work and mowing lawns. It's more than earning money; it's about valuing hard work and the spirit of entrepreneurship.
