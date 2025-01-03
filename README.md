@@ -1,5 +1,6 @@
 # Hello there! 👋
 I'm Joshua Nafziger, a high school student from VA, USA, deeply engrossed in math, physics, coding, computers, and the exciting world of home automation. This GitHub profile is my digital workshop, a place where I share my adventures in the realms of technology and science.
+If you want to learn more about me, vist my website! [Joshua Nafziger](https://joshua.nafzigers.us)
 
 ## About Me
 
